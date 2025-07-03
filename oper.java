@@ -9,5 +9,6 @@ public class oper {
         System.out.println("Preincrement : "+(++a));
         
         b++;
+        System.out.println(b);
     }
 }
