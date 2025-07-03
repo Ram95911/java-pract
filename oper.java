@@ -7,5 +7,7 @@ public class oper {
         System.out.println("Postincrement : "+(a++));
         // System.out.println(a);
         System.out.println("Preincrement : "+(++a));
+        
+        b++;
     }
 }
